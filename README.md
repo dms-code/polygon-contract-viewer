@@ -17,8 +17,8 @@ Make sure you have the following tools installed:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/dms-code/polygon-contract-viewer.git
+cd polygon-contract-viewer
 ```
 
 2. **Install Dependencies**
